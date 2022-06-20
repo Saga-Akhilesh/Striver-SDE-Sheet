@@ -1,3 +1,5 @@
+//Problem : https://leetcode.com/problems/merge-sorted-array/
+//Using Gap method
 public class mergetwosortedarraysgap{
     static int getgap(int gap){
         if(gap<=1)
