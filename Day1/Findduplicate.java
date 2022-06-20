@@ -1,3 +1,4 @@
+//Problem: https://leetcode.com/problems/find-the-duplicate-number/
 //Tortoise method: Slow and Fast pointers
 public class Findduplicate{
     static int duplicate(int arr[]){
