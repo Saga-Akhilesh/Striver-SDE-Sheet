@@ -1,3 +1,4 @@
+//Problem:https://leetcode.com/problems/maximum-product-subarray/
 class maxSubArrayProduct {
     static int maxProduct(int[] nums) {
 		int max = nums[0];
