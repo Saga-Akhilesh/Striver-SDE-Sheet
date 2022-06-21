@@ -1,3 +1,4 @@
+//Problem: https://leetcode.com/problems/merge-intervals/
 import java.util.*;
 public class mergeIntervals{
 static int[][] merge(int[][] intervals) {
