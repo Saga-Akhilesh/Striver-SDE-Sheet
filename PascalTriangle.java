@@ -1,3 +1,4 @@
+//problem: https://leetcode.com/problems/pascals-triangle/
 import java.util.*;
 public class PascalTriangle{
 static List<List<Integer>> generate(int numRows) {
